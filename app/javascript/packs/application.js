@@ -9,6 +9,7 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import 'jquery'
 import "skippr.min"
+import "chartkick/chart.js"
 import "script.js"
 
 Rails.start()
